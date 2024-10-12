@@ -5,7 +5,7 @@ This is Express Server to Create, Retrieve, Delete, and Update the Issues. You c
 - ```JWT_EXPIRES_IN```
 - ```JWT_SECRET_KEY```
 ### Features 
-- This Server has Redis for frequent notes
+- This Server has Redis for frequent Issues
 - You can run this server using Docker.
 - Cluster module, for scaleability.
-- AWS S3, presigned url for media storage.
+- AWS S3, presigned url for media storage, like screenshots, video.
